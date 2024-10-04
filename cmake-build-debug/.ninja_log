@@ -1,0 +1,6 @@
+# ninja log v6
+10	429	7497277090474467	CMakeFiles/perulangan_project.dir/src/for..cpp.obj	e480a2cf53f0e80a
+4	445	7497277090415565	CMakeFiles/perulangan_project.dir/src/do.cpp.obj	a1ffe0b3bb659775
+16	451	7497277090534060	CMakeFiles/perulangan_project.dir/src/main.cpp.obj	c60630b3490fe735
+22	463	7497277090594776	CMakeFiles/perulangan_project.dir/src/while.cpp.obj	f710674d243da472
+463	635	7497277095000862	perulangan_project.exe	1827d1701a1950a1
